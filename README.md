@@ -26,23 +26,22 @@
 </div>
 
 ---
-<center><h2> 🌌 About Me</h2></center>
-
 <div align="center">
 
-🔹  Computer Engineering Student  
-🔹  Passionate about Artificial Intelligence and Machine Learning  
-🔹  Exploring Data Science, Analytics, and Predictive Modeling  
-🔹  Building projects using Python, Pandas, NumPy, and Scikit-learn  
-🔹  Working with MySQL for data management and analysis  
-🔹  Creating interactive dashboards with Power BI  
-🔹  Turning ideas into real-world intelligent solutions  
-🔹  Continuously learning, building, and improving technical skills  
-🔹  Interested in AI, Data Science, and Software Development  
-🔹  Goal: Become an AI Engineer and develop impactful technology that solves real-world problems  
+<h2>🌌 About Me</h2>
+
+🔹 Computer Engineering Student  
+🔹 Passionate about Artificial Intelligence and Machine Learning  
+🔹 Exploring Data Science, Analytics, and Predictive Modeling  
+🔹 Building projects using Python, Pandas, NumPy, and Scikit-learn  
+🔹 Working with MySQL for data management and analysis  
+🔹 Creating interactive dashboards with Power BI  
+🔹 Turning ideas into real-world intelligent solutions  
+🔹 Continuously learning, building, and improving technical skills  
+🔹 Interested in AI, Data Science, and Software Development  
+🔹 Goal: Become an AI Engineer and develop impactful technology  
 
 </div>
-
 ---
 
 <p><center><h2>🌐 Connect With Me</h2></center></p>
