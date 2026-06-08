@@ -44,7 +44,8 @@
 </div>
 
 
-<div align="center">🌐 Connect With Me
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
 
 
 <a href="https://linkedin.com/in/ShreeyashSawant"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
@@ -57,34 +58,38 @@
 
 <div align="center"> ⚡ Tech Arsenal  </div>
 
+<div align="center">
 ## 💻 LANGUAGES
 <p align="center"><img src="https://img.shields.io/badge/C-141691?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></p>
+</div>
 
+<div align="center">
 ## 🤖 AI / ML
-<p align="center">
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
+</div>
 
 
+<div align="center">
 ## 📊 ANALYTICS
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-00E5FF?style=for-the-badge&logo=mysql&logoColor=black"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
+<div align="center">
 ## 🛠️ FRAMEWORKS & DATABASES
 <p align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+<div align="center">
 ## 🎨 DESIGN & TOOLS
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -92,11 +97,11 @@
 <img src="https://img.shields.io/badge/Keil-0091BD?style=for-the-badge"/>
 </p>
 
----
-
-# 📈 GitHub Analytics
 
 <div align="center">
+# 📈 GitHub Analytics
+
+
 
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rihpmad545&theme=radical&hide_border=true"/><br/>
