@@ -109,30 +109,19 @@
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rihpmad545&theme=radical&hide_border=true"/><br/>
 </div>
 
-
-# 🐍 Contribution Snake
-
 <div align="center">
-
+<h2>🐍 Contribution Snake</h2>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
----
-
-</div>
-
-### 🌟 Thanks for visiting my digital universe 🌟
-
+<div align="center">
+<h2> 🌟 Thanks for visiting my digital universe 🌟
 <img src="https://komarev.com/ghpvc/?username=Rihpmad545&label=Profile+Views&color=bd1a25&style=for-the-badge"/>
-
-<p>
-<p>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:800020,50:DC143C,100:FF4D4D&text=Error%20404:%20Ordinary%20developer%20not%20found%20%E2%80%94%20only%20AI-driven%20innovation%20exists%20here.&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 </div>
-</div>
 </center>
-</div>
