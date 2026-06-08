@@ -115,7 +115,7 @@
 </div>
 
 <div align="center">
-<h2> 🌟 Thanks for visiting my digital universe 🌟
+<h2> 🌟 Thanks for visiting my digital universe 🌟<br>
 <img src="https://komarev.com/ghpvc/?username=Rihpmad545&label=Profile+Views&color=bd1a25&style=for-the-badge"/>
 </div>
 
