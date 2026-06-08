@@ -43,49 +43,41 @@
 
 </div>
 
-
 <div align="center">
-  <h2>🌐 Connect With Me
-<br>
+
+## 🌐 Connect With Me
+
 <a href="https://linkedin.com/in/ShreeyashSawant"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:04shreeyash@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://instagram.com/shreeyash.11"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://github.com/Rihpmad545"><img src="https://skillicons.dev/icons?i=github"/></a>
-</h2>
-</div>
-
-
-
-<div align="center"> <h1>⚡ Tech Arsenal  </h1></div>
-
-<div align="center">
-<h2>💻 LANGUAGES</h2>
-<p align="center"><img src="https://img.shields.io/badge/C-141691?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></p>
-</div>
-
-<div align="center">
-<h2> 🤖 AI / ML</h2>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </div>
 
 
-<div align="center">
-<h2> 📊 ANALYTICS</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-00E5FF?style=for-the-badge&logo=mysql&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-</div>
-
 
 <div align="center">
-<h2>🛠️ FRAMEWORKS & DATABASES</h2>
+
+## ⚡ Tech Arsenal
+
+### ⌨️ Languages
+<img src="https://img.shields.io/badge/C-141691?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+### 🤖 AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### 📈 Analytics
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### 🛠️ Frameworks & Databases
 <p align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -93,20 +85,13 @@
 </div>
 
 <div align="center">
-<h2> 🎨 DESIGN & TOOLS</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keil-0091BD?style=for-the-badge"/>
-</p>
-</div>
-
-<br>
-
-<div align="center">
 <h2> 📈 GitHub Analytics</h2>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rihpmad545&theme=radical&hide_border=true"/><br/>
 </div>
+
+## Developer Growth Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rihpmad545&theme=rogue&hide_border=true&area=true)
 
 <div align="center">
 <h1>🐍 Contribution Snake</h1>
