@@ -3,9 +3,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:800020,50:DC143C,100:FF4D4D&text=Shreeyash%20Sawant&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:800020,50:DC143C,100:FF4D4D&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=5000&color=DC143C&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I%27m+Shreeyash" />
 
 </div>
 
@@ -13,7 +13,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=5000&pause=1000&color=FBBF24&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Transforming+Curiosity+into+Intelligent+Solutions" />
 </h2>
 
-<h1 align="center">Hey, I'm Shreeyash</h1>
 
 <div align="center">
 
