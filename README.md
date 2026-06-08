@@ -110,7 +110,7 @@
 </div>
 
 <div align="center">
-<h2>🐍 Contribution Snake</h2>
+<h1>🐍 Contribution Snake</h1>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
