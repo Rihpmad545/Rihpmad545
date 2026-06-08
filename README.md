@@ -57,7 +57,7 @@
 
 
 
-<div align="center"> <h1></h1>⚡ Tech Arsenal  </div>
+<div align="center"> <h1>⚡ Tech Arsenal  </h1></div>
 
 <div align="center">
 <h2>💻 LANGUAGES</h2>
@@ -65,7 +65,7 @@
 </div>
 
 <div align="center">
-## 🤖 AI / ML
+<h2> 🤖 AI / ML</h2>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
