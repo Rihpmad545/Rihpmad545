@@ -45,18 +45,19 @@
 
 
 <div align="center">
-  <h2>🌐 Connect With Me</h2>
+  <h2>🌐 Connect With Me
 
 
 <a href="https://linkedin.com/in/ShreeyashSawant"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:04shreeyash@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://instagram.com/shreeyash.11"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://github.com/Rihpmad545"><img src="https://skillicons.dev/icons?i=github"/></a>
+</h2>
 </div>
 
 
 
-<div align="center"> ⚡ Tech Arsenal  </div>
+<div align="center"> <h1></h1>⚡ Tech Arsenal  </div>
 
 <div align="center">
 <h2>💻 LANGUAGES</h2>
@@ -107,6 +108,7 @@
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rihpmad545&theme=radical&hide_border=true"/><br/>
 
 </div>
+</h1>
 
 # 🐍 Contribution Snake
 
