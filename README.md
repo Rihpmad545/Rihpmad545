@@ -52,7 +52,7 @@
 
 ---
 
-<center><h1> ⚡ Tech Arsenal</h1></center>
+<center><h1> ⚡ Tech Arsenal
 
 ## 💻 LANGUAGES
 <p align="center"><img src="https://img.shields.io/badge/C-141691?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></p>
@@ -98,13 +98,7 @@
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rihpmad545&theme=radical&hide_border=true"/><br/>
 
-</div>
 
-### 🌟 Thanks for visiting my digital universe 🌟
-
-<img src="https://komarev.com/ghpvc/?username=Rihpmad545&label=Profile+Views&color=bd1a25&style=for-the-badge"/>
-
----
 
 # 🐍 Contribution Snake
 
@@ -116,16 +110,18 @@
 
 ---
 
-## 💡 Favorite Quote
+</div>
 
-> " Licensed to code. Built to solve what others can’t."
+### 🌟 Thanks for visiting my digital universe 🌟
 
----
+<img src="https://komarev.com/ghpvc/?username=Rihpmad545&label=Profile+Views&color=bd1a25&style=for-the-badge"/>
+
+<p>
+<p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0:800020,50:DC143C,100:FF4D4D"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:800020,50:DC143C,100:FF4D4D&text=Error%20404:%20Ordinary%20developer%20not%20found%20%E2%80%94%20only%20AI-driven%20innovation%20exists%20here.&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 </div>
 </center>
 </div>
