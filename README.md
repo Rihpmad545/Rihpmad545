@@ -98,7 +98,7 @@
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rihpmad545&theme=radical&hide_border=true"/><br/>
 
-
+</div>
 
 # 🐍 Contribution Snake
 
@@ -108,7 +108,7 @@
 
 </div>
 
----
+
 
 </div>
 
