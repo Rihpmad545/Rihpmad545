@@ -52,7 +52,7 @@
 
 ---
 
-<center><h1> ⚡ Tech Arsenal
+<center><h1> ⚡ Tech Arsenal</h1></center>
 
 ## 💻 LANGUAGES
 <p align="center"><img src="https://img.shields.io/badge/C-141691?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></p>
@@ -120,15 +120,6 @@
 
 > " Licensed to code. Built to solve what others can’t."
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0:800020,50:DC143C,100:FF4D4D"/>
-
-</div>
-</center>
-</div>
 ---
 
 <div align="center">
