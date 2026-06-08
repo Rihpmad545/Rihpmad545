@@ -46,8 +46,7 @@
 
 <div align="center">
   <h2>🌐 Connect With Me
-
-
+<br>
 <a href="https://linkedin.com/in/ShreeyashSawant"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:04shreeyash@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://instagram.com/shreeyash.11"><img src="https://skillicons.dev/icons?i=instagram"/></a>
