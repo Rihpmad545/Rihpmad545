@@ -1,7 +1,11 @@
 
 <!-- 🌌 FUTURE PROFILE INTERFACE -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0:800020,50:DC143C,100:FF4D4D&text=Shreeyash%20Sawant&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:800020,50:DC143C,100:FF4D4D&text=Shreeyash%20Sawant&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+
+
 
 </div>
 
@@ -108,9 +112,9 @@
 
 </div>
 
+---
 
-
-
+</div>
 
 ### 🌟 Thanks for visiting my digital universe 🌟
 
@@ -120,8 +124,9 @@
 <p>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:800020,50:DC143C,100:FF4D4D&text=Error%20404:%20Ordinary%20developer%20not%20found%20%E2%80%94%20only%20AI-driven%20innovation%20exists%20here.&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+
+</div>
 </div>
 </center>
 </div>
