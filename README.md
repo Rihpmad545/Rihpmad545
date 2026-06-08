@@ -77,38 +77,38 @@
 
 
 <div align="center">
-## 📊 ANALYTICS
+<h2> 📊 ANALYTICS</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-00E5FF?style=for-the-badge&logo=mysql&logoColor=black"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
+</div>
+
 
 <div align="center">
-## 🛠️ FRAMEWORKS & DATABASES
+<h2>🛠️ FRAMEWORKS & DATABASES</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+</div>
 
 <div align="center">
-## 🎨 DESIGN & TOOLS
+<h2> 🎨 DESIGN & TOOLS</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keil-0091BD?style=for-the-badge"/>
 </p>
+</div>
 
+<br>
 
 <div align="center">
-# 📈 GitHub Analytics
-
-
-
-
+<h2> 📈 GitHub Analytics</h2>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rihpmad545&theme=radical&hide_border=true"/><br/>
-
 </div>
-</h1>
+
 
 # 🐍 Contribution Snake
 
