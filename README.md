@@ -25,7 +25,7 @@
 
 </div>
 
----
+
 <div align="center">
 
 <h2>🌌 About Me</h2>
@@ -42,20 +42,20 @@
 🔹 Goal: Become an AI Engineer and develop impactful technology  
 
 </div>
----
 
-<p><center><h2>🌐 Connect With Me</h2></center></p>
 
-<p align="center">
+<div align="center">🌐 Connect With Me
+
+
 <a href="https://linkedin.com/in/ShreeyashSawant"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:04shreeyash@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://instagram.com/shreeyash.11"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://github.com/Rihpmad545"><img src="https://skillicons.dev/icons?i=github"/></a>
-</p>
+</div>
 
----
 
-<center><h1> ⚡ Tech Arsenal
+
+<div align="center"> ⚡ Tech Arsenal  </div>
 
 ## 💻 LANGUAGES
 <p align="center"><img src="https://img.shields.io/badge/C-141691?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></p>
