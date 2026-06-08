@@ -1,5 +1,5 @@
 
-
+<!-- 🌌 FUTURE PROFILE INTERFACE -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0:800020,50:DC143C,100:FF4D4D&text=Shreeyash%20Sawant&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
@@ -55,7 +55,7 @@
 <center><h1> ⚡ Tech Arsenal
 
 ## 💻 LANGUAGES
-<img src="https://img.shields.io/badge/C-141691?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center"><img src="https://img.shields.io/badge/C-141691?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></p>
 
 ## 🤖 AI / ML
 <p align="center">
@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
+
 
 
 ## 📊 ANALYTICS
@@ -120,6 +120,15 @@
 
 > " Licensed to code. Built to solve what others can’t."
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0:800020,50:DC143C,100:FF4D4D"/>
+
+</div>
+</center>
+</div>
 ---
 
 <div align="center">
