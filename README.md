@@ -60,7 +60,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧠📊 [Student Marks Predictor AI](https://github.com/your-username/student-marks-predictor-ai)
+### 🧠📊 [Student Marks Predictor AI](https://github.com/Rihpmad545/student-marks-predictor-ai)
 > **Python · NumPy · Pandas · Matplotlib**
 Not just prediction — a custom-built ML model from scratch without scikit-learn. Uses linear regression logic, data analysis, and an AI-style feedback system to evaluate student performance (strengths, weaknesses, suggestions).
 
