@@ -53,7 +53,27 @@
 
 </div>
 
+<div align="center">
 
+## 🤖 My Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠📊 [Student Marks Predictor AI](https://github.com/your-username/student-marks-predictor-ai)
+> **Python · NumPy · Pandas · Matplotlib**
+Not just prediction — a custom-built ML model from scratch without scikit-learn. Uses linear regression logic, data analysis, and an AI-style feedback system to evaluate student performance (strengths, weaknesses, suggestions).
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat-square)
+
+
+</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
