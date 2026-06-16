@@ -55,7 +55,7 @@
 
 <div align="center">
 
-## 🤖 My Projects
+## 🤖 My Notable Projects
 <table>
 <tr>
 <td width="50%" valign="top">
