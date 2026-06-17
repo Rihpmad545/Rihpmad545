@@ -60,7 +60,7 @@
 <tr>
 <td width="50%" valign="top">
   
-### 🏠📈 [House Price Prediction and Property Analysis System](https://github.com/Rihpmad545/house-price-prediction-system)
+### 🏠📈 [House Price Prediction and Property Analysis System](https://github.com/Rihpmad545/house-price-prediction-system])
 > **Python · Pandas · NumPy · Scikit-Learn · Matplotlib · Ollama**
 
 A complete Machine Learning application that predicts residential property prices using 20 housing features. Includes data analysis, visualization, model training, real-time price prediction, and property assessment through a locally hosted LLM using Ollama and Llama 3.2.
