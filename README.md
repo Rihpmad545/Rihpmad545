@@ -59,6 +59,20 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+  
+### 🏠📈 [House Price Prediction and Property Analysis System](https://github.com/Rihpmad545/house-price-prediction-system)
+> **Python · Pandas · NumPy · Scikit-Learn · Matplotlib · Ollama**
+
+A complete Machine Learning application that predicts residential property prices using 20 housing features. Includes data analysis, visualization, model training, real-time price prediction, and property assessment through a locally hosted LLM using Ollama and Llama 3.2.
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-green?style=flat-square)
+
+---
 
 ### 🧠📊 [Student Marks Predictor AI](https://github.com/Rihpmad545/student-marks-predictor-ai)
 > **Python · NumPy · Pandas · Matplotlib**
