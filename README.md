@@ -46,7 +46,7 @@
 
 ## 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/ShreeyashSawant"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/shreeyash-sawant-220230228/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:04shreeyash@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://instagram.com/shreeyash.11"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://github.com/Rihpmad545"><img src="https://skillicons.dev/icons?i=github"/></a>
