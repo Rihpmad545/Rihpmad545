@@ -117,6 +117,11 @@ Not just prediction — a custom-built ML model from scratch without scikit-lear
 </p>
 </div>
 
+### 🧠 LLMs & AI Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+
 <div align="center">
 <h2> 📈 GitHub Analytics</h2>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rihpmad545&theme=radical&hide_border=true"/><br/>
