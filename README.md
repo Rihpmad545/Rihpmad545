@@ -59,6 +59,23 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+
+### 🏦📊 [AI-Powered Loan Approval Prediction System](https://github.com/Rihpmad545/AI-Powered-Loan-Approval-Prediction-System)
+> **Python · Flask · Scikit-learn · HTML · CSS · C · Llama 3.2**
+
+A full-stack machine learning web application that predicts loan approval based on applicant financial and personal details such as income, credit history, employment status, and loan amount. Built using a trained classification model for fast and accurate decision-making.
+
+Includes **EMI calculation using C**, interactive analytics, and **Llama 3.2 integration** for intelligent loan insights and explanations.
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-red?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-EMI%20Module-darkblue?style=flat-square)
+![Llama 3.2](https://img.shields.io/badge/LLM-Llama%203.2-purple?style=flat-square)
+
+---
   
 ### 🏠📈 [House Price Prediction and Property Analysis System](https://github.com/Rihpmad545/House-Price-Prediction-System)
 > **Python · Pandas · NumPy · Scikit-Learn · Matplotlib · Ollama**
