@@ -18,7 +18,7 @@
 
 ### 🤖 AI & Machine Learning Enthusiast | 📊 Data Science Explorer | 💻 Python Developer
 
-*“I don’t just process data — I turn chaos into intelligent solutions.”*
+*“I don’t just process data — I turn chaos into intelligent solutions!”*
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Engineer+in+Progress;Building+Intelligent+Systems+with+Python;Turning+Data+into+Intelligence;Deep+Learning+Explorer" />
 
