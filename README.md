@@ -67,10 +67,6 @@
 <b>C</b>
 </td>
 
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/><br/>
-<b>C++</b>
-</td>
 
 <td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=python" height="50"/><br/>
