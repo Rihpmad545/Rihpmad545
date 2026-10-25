@@ -110,6 +110,11 @@
 <b>Seaborn</b>
 </td>
 
+<td align="center" width="130">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/><br/>
+<b>OpenCV</b> 
+</td>
+
 </tr>
 </table>
 
@@ -199,10 +204,6 @@
 <h2> 📈 GitHub Analytics</h2>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rihpmad545&theme=radical&hide_border=true"/><br/>
 </div>
-
-## Developer Growth Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rihpmad545&theme=rogue&hide_border=true&area=true)
 
 <div align="center">
 <h1>🐍 Contribution Snake</h1>
